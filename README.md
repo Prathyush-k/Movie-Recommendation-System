@@ -4,4 +4,9 @@ The year of release, genres , number of votes and the average rating are taken a
 
 ### Data Collection and Cleaning
 The data about the movies is collected from the IMDb: https://www.imdb.com/interfaces/ 
+
+* title.akas.tsv
+* title.basic.tsv
+* title.rating.tsv
+
 All the movies with incomplete data are removed
