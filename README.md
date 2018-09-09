@@ -13,4 +13,5 @@ All the movies with incomplete data are removed
 
 ### Recommendation Model
 The data for prediction is selected based on the genres the user has watched before
+
 The Neural Network predicts the probability of the user liking the movie
