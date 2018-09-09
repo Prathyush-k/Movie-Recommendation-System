@@ -10,3 +10,7 @@ The data about the movies is collected from the IMDb: https://www.imdb.com/inter
 * title.rating.tsv
 
 All the movies with incomplete data are removed
+
+### Recommendation Model
+The data for prediction is selected based on the genres the user has watched before
+The Neural Network predicts the probability of the user liking the movie
